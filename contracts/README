@@ -1,0 +1,6 @@
+This version of the Basis Cash contracts makes the following changes: 
+
+- Change the Solidity compiler version to 0.6.2 from 0.6.0
+- Use the full path for OpenZeppelin contracts instead of a local install
+
+This helps run these files directly in Remix without having to run Truffle locally. It is also more explicit in terms of which version of the contracts are being used - in this case, the OpenZeppelin contracts v3.2.0. This information is not apparent with Truffle.
