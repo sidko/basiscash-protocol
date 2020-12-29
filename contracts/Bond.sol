@@ -1,7 +1,7 @@
-pragma solidity ^0.6.0;
+pragma solidity ^0.6.2;
 
 import './owner/Operator.sol';
-import '@openzeppelin/contracts/token/ERC20/ERC20Burnable.sol';
+import 'https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.2.0/contracts/token/ERC20/ERC20Burnable.sol';
 
 contract Bond is ERC20Burnable, Ownable, Operator {
     /**

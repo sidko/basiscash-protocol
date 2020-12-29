@@ -1,6 +1,6 @@
-pragma solidity ^0.6.0;
+pragma solidity ^0.6.2;
 
-import '@openzeppelin/contracts/access/Ownable.sol';
+import 'https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.2.0/contracts/access/Ownable.sol';
 
 abstract contract IRewardDistributionRecipient is Ownable {
     address public rewardDistribution;

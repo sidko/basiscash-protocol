@@ -1,7 +1,7 @@
-pragma solidity ^0.6.0;
+pragma solidity ^0.6.2;
 
-import '@openzeppelin/contracts/GSN/Context.sol';
-import '@openzeppelin/contracts/access/Ownable.sol';
+import 'https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.2.0/contracts/GSN/Context.sol';
+import 'https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.2.0/contracts/access/Ownable.sol';
 
 contract Operator is Context, Ownable {
     address private _operator;

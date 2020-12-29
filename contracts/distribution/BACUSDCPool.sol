@@ -1,4 +1,4 @@
-pragma solidity ^0.6.0;
+pragma solidity ^0.6.2;
 /**
  *Submitted for verification at Etherscan.io on 2020-07-17
  */
@@ -38,25 +38,25 @@ pragma solidity ^0.6.0;
 * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 */
 
-// File: @openzeppelin/contracts/math/Math.sol
+// File: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.2.0/contracts/math/Math.sol
 
-import '@openzeppelin/contracts/math/Math.sol';
+import 'https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.2.0/contracts/math/Math.sol';
 
-// File: @openzeppelin/contracts/math/SafeMath.sol
+// File: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.2.0/contracts/math/SafeMath.sol
 
-import '@openzeppelin/contracts/math/SafeMath.sol';
+import 'https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.2.0/contracts/math/SafeMath.sol';
 
-// File: @openzeppelin/contracts/token/ERC20/IERC20.sol
+// File: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.2.0/contracts/token/ERC20/IERC20.sol
 
-import '@openzeppelin/contracts/token/ERC20/IERC20.sol';
+import 'https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.2.0/contracts/token/ERC20/IERC20.sol';
 
-// File: @openzeppelin/contracts/utils/Address.sol
+// File: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.2.0/contracts/utils/Address.sol
 
-import '@openzeppelin/contracts/utils/Address.sol';
+import 'https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.2.0/contracts/utils/Address.sol';
 
-// File: @openzeppelin/contracts/token/ERC20/SafeERC20.sol
+// File: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.2.0/contracts/token/ERC20/SafeERC20.sol
 
-import '@openzeppelin/contracts/token/ERC20/SafeERC20.sol';
+import 'https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.2.0/contracts/token/ERC20/SafeERC20.sol';
 
 // File: contracts/IRewardDistributionRecipient.sol
 
